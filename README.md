@@ -1,6 +1,6 @@
 <h2 align="center"> 👨‍💻 About me</h2>
 <p align="center">
-  <samp>I'm Igor Maljik, a Software Engineering student diving into diverse Software Development projects. I'm currently learning Web Development and I'm looking to collaborate on projects using Artificial Intelligence. Fueled by hard work and discipline, I'm also guided by faith. I strongly believe in pushing boundaries; when you give your best, there are no limits to what you can achieve.
+  <samp>I'm Igor Maljik, a Software Engineering student diving into diverse Software Development projects. I'm currently learning about Blockchain and Artificial Intelligence and I'm looking to collaborate on projects using AI. Fueled by hard work and discipline, I'm also guided by faith. I strongly believe in pushing boundaries; when you give your best, there are no limits to what you can achieve.
   </samp>
 </p>
 
