@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />&nbsp;
@@ -37,9 +38,11 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 <p align="center"><b>Databases</b></p>
@@ -133,6 +136,26 @@
       </p>
       <a href="https://github.com/aleksteodora/SOK_Project__Graph_Explorer_Platform_">→ View Repository</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🃏 TAČ — iOS Multiplayer Card Game</h3>
+      <p>
+        Real-time two-player card game built entirely from scratch. SwiftUI client
+        communicates over WebSockets with a Node.js/Express backend. Features a
+        custom card engine, TAČ penalty system with server-side validation, configurable
+        timers, lobby/invite flow, and match statistics via PostgreSQL.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+      <a href="https://github.com/IgorMaljik/tac">→ View Repository</a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <hr>
